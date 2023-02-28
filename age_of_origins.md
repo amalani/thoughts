@@ -26,11 +26,13 @@ This will give you things to upgrade the Titan in the titan center
 
 
 
+Last updated: 2023/02/27
+
 
 
 ## Links:
 Short link to this page -> https://bit.ly/abhi-aoa
 
+- Google Translate page: https://raw-githubusercontent-com.translate.goog/amalani/thoughts/main/age_of_origins.md?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 - English: https://raw.githubusercontent.com/amalani/thoughts/main/age_of_origins.md
-- Google Translate: https://raw-githubusercontent-com.translate.goog/amalani/thoughts/main/age_of_origins.md?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 - Original: https://github.com/amalani/thoughts/blob/main/age_of_origins.md
