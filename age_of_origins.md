@@ -2,11 +2,23 @@
 Age of Origins game play thoughts
 
 
-## Raid the ruins Rally with alliance members
+## Game navigation (How to do?)
+1. See all current and upcoming event list -> Click orange glowing icon in bottom left corner.
+
+
+## Raid the ruins - Rally with alliance members
 Everyday you get 1-2 attempts at starting or joining a rally to raid the ruins. It is good to have many people join the rally as that gives bigger rewards. 
-1. Since there are limited number of attempts, it's better to announce in alliance chat when you are ready and see if others can join. Even if peole are online, they may not be able to join since troops may be farming.
+1. Since there are limited number of attempts, it's better to announce in alliance chat when you are ready and see if others can join. Even if there are people online, they may not be able to join since their troops may be farming or attacking far away.
 2. Don't start the rally directly. Ask in chat first how many can join. Get confirmation of how much time they need if their troops are returning and then start rally. That way most people can join and the chance is not wasted.
 3. If 1 or 2 people join the rally, disband it - and go later when more people are availble. This helps provide bigger rewards and doesn't waste a chance. You can cancel rally before it starts by going to Battle Log -> Rally -> disband (person who started rally can do this.)
+
+
+## Titan upgrade events
+1. There are multiple events that help you upgrade the Titan 1) Doom's iron grip, Mother of Dooom, Medici's treasure.
+2. These are individual events - you get ~10 attempts - and even though the demon is far away, your troops will take 15 seconds to go there, and 15 to return. 
+3. Pick you best troops -> higher troops and fire power means more damage, and more rewards.
+4. Click event list -> find the event - Attack. Let the attack happen, troops return quickly. Then heal the troops in the hospital, then attack again. Do this until all your attempts are over.
+This will give you things to upgrade the Titan in the titan center
 
 
 
@@ -17,7 +29,7 @@ Everyday you get 1-2 attempts at starting or joining a rally to raid the ruins. 
 
 
 ## Links:
-Short link to this page -> https://tinyurl.com/abhi-aoa
+Short link to this page -> https://bit.ly/abhi-aoa
 
 - English: https://raw.githubusercontent.com/amalani/thoughts/main/age_of_origins.md
 - Google Translate: https://raw-githubusercontent-com.translate.goog/amalani/thoughts/main/age_of_origins.md?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
