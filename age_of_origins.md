@@ -15,7 +15,8 @@ Everyday you get 1-2 attempts at starting or joining a rally to raid the ruins. 
 
 
 
-Links:
+
+## Links:
 Short link to this page -> https://tinyurl.com/abhi-aoa
 
 - English: https://raw.githubusercontent.com/amalani/thoughts/main/age_of_origins.md
