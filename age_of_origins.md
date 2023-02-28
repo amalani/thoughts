@@ -1,11 +1,11 @@
 
 Age of Origins game play thoughts
 
-
+# General
 ## Game navigation (How to do?)
 1. See all current and upcoming event list -> Click orange glowing icon in bottom left corner.
 
-
+# Events / Rallies
 ## Raid the ruins - Rally with alliance members
 Everyday you get 1-2 attempts at starting or joining a rally to raid the ruins. It is good to have many people join the rally as that gives bigger rewards. 
 1. Since there are limited number of attempts, it's better to announce in alliance chat when you are ready and see if others can join. Even if there are people online, they may not be able to join since their troops may be farming or attacking far away.
@@ -18,10 +18,14 @@ Everyday you get 1-2 attempts at starting or joining a rally to raid the ruins. 
 2. These are individual events - you get ~10 attempts - and even though the demon is far away, your troops will take 15 seconds to go there, and 15 to return. 
 3. Pick you best troops -> higher troops and fire power means more damage, and more rewards.
 4. Click event list -> find the event - Attack. Let the attack happen, troops return quickly. Then heal the troops in the hospital, then attack again. Do this until all your attempts are over.
-This will give you things to upgrade the Titan in the titan center
+This will give you things to upgrade the Titan.
 
 
-
+## War
+## Wounded troops and reducing losses
+- When defending (or reinforcing), you can reduce your army losses by ensuring the hosital and all the small medical center buildings are upgraded to highest level. When your troops are killed while defending, they go to the hospital (upto the hospital limit) - when the limit is full, any more killed troops will be permanently lost.
+- It's much cheaper and quicker to heal wounded troops than creating new ones.
+- You can see your current hospital and wounded limit by clicking on the fleet/troops icon (on the left side of the city wall)
 
 
 
