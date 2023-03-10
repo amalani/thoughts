@@ -2,6 +2,14 @@
 Age of Origins game play thoughts
 
 # General
+
+## First things - you're new to the alliance - what are the things you should know?
+1. Big alliances usually have multiple main alliances as well as friend or farm alliances. A farm alliance is an alliance where members maintain their secondary accounts as just farms to grow/gather resources. Only owners of those farms should be attacking them. 
+2. Understand what are your friend/farm alliances - you can see it in the alliance section inside relationships. Remember the alliance names. Do not attack them. You'll see members attack their own farms - do not join the attack.
+3. The Alliance battle list will show all active battles - typically, when someone wants you to do a group attack - they'll ask you to join or post in the chat. It's courteous to not join the other attacks the member might be doing. They could be attacking someone they've scouted, or worse - their own farm - and you shouldn't be attacking member farms. 
+4. Know which are the big alliances (top 5) - they have a lot of fire power and can destroy your city (or the entire alliances). You can see alliance strength by clicking Commmander -> Alliance. 
+5. If you don't know something or when in doubt - ask.
+
 ## Game navigation (How to do?)
 1. See all current and upcoming event list -> Click orange glowing icon in bottom left corner.
 
