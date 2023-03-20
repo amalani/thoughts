@@ -36,9 +36,17 @@ This will give you things to upgrade the Titan.
 - You can see your current hospital and wounded limit by clicking on the fleet/troops icon (on the left side of the city wall)
 
 
+## Upgrading cities
+I know it's tempting to go for increasing city level and ignoring others but want to suggest you all a few things to help you be stronger. Increasing city levels is good but try to balance with other things:
 
+- Try to increase embassy - that will help others reinforce you (others can only send as many troops as your embassy can hold)
+- Try to increase medical units - that will reduce your losses as more troops will be wounded instead of killed. wounded is cheaper and faster to recover.
+- Try to increase deployment center - that will help you do bigger rallies for ruins and attacks - which means more people can join if you miss David/Najma big rallies. You need leader points for this, you can get some for free through exploration (free attempt button to change items at bottom of explore page). Or if you choose to use gold, get 500 for 2500 gold.
+- Research hp/defense to reduce troop losses in battles.
 
-Last updated: 2023/02/27
+Instead of focusing purely on growth, balance growth and sustainence and recovery.
+
+Last updated: 2023/03/20
 
 
 
