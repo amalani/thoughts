@@ -52,14 +52,15 @@ Kill event is a biweekly thing that happens at the last phase of Strongest comma
 - Tap on events list to see how much time is left for kill event. Or you can see clock at the top left.
 - Expect an attack at any time. Try to shield up and always protect your troops. It's much easier and quicker to heal troops than to create them. Resources are easier to gather if you lose them. Rebuilding troops can take weeks sometimes. Try to save troops first.
 - If you arent going to be active/sleeping - try to put on a shield. If your city doesnt have higher level troops or resources, you will likely not get attacked because people are trying to get kill points so there is no reason to attack you so no need for shield.
-- If you don't have shield or don't want to use shield, try to use up resources and hide troops.
+- If you don't have shield or don't want to use shield, try to use up resources and hide troops. Peoplke won't attack you then.
 - You can hide troops at Alliance fort (one fleet) or alliance flags for long period of time. If some member says they are going to shield, you can hide troops by reinforcing shield cities too. 
 - You can hide troops by sending them to gather but try to check again when the time expires so you can send them back. Gold mind is slowest - so you can send troops for longest time there. - If you send them to elite mines - time can change based on how many other members are gathering there so elite mines are unpredictable.
-- Some stronger members can even break shields. Shields prevent against most players but not all. 
+- When you have peace shield up - you can defend other members by reinforcing them. This will wound your members up to hospital limit so you can avoid killed troops too. You can also get KE points this way while defending by as you'll kill the attacker's troops.
 
 Peace shield
 - You can't put on a peace shield when you are attacking. If you have fleets or scouts going out and you want to quickly put on shield, recall your fleets first.
-- If you're being attacked, you can put up shield then to cause some damage to the attackers troops that are coming to you (or get stuck0
+- If you're being attacked, you can put up shield then to cause some damage to the attackers troops that are coming to you (or get stuck)
+- Some stronger members can even break shields. Shields prevent against most players but not all. 
 
 
 
